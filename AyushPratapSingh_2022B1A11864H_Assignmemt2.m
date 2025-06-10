@@ -1,4 +1,4 @@
-% Ayush_2022b1A11864H_Assignment2.m
+% Ayush_2022b1A11864H_.m
 
 clc;
 clear;
